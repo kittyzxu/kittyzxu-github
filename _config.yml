@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /kittyzxu-github
+exclude: ['README.md']
