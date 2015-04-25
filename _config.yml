@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Kitty Z Xu
+tagline:          personal and professional
 url:              http://getpoole.com
 paginate:         1
 baseurl:          /kittyzxu-github
 author:
-  name:           Mark Otto
+  name:           KittyZ Xu
   url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  email:          kitty.zhexu@gmail.com
 
 # Custom vars
 version:          1.0.0
